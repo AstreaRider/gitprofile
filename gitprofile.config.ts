@@ -33,7 +33,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1T3uslgpoNSdIXjVxJSunQ3sAJUq5T_Tc/view?usp=drive_link',
+      'https://drive.google.com/drive/folders/1eO2CyHACFcN6uKfrSPNoDT5sDCVC4K77?usp=sharing',
   },
   skills: [
     'Cloud Computing (AWS, Azure)',
