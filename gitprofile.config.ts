@@ -53,6 +53,18 @@ const CONFIG = {
     'Networking (Mikrotik)',
   ],
   experiences: [
+    {      
+      company: 'IBM',
+      position: 'DevOps Engineer',
+      from: 'May 2025',
+      to: 'September 2025',
+    },
+    {
+      company: 'PT. XSIS Mitra Utama',
+      postion: 'DevOps Team Lead',
+      from: 'October 2024',
+      to: 'April 2025',
+    },
     {
       company: 'Telkom Indonesia',
       position: 'DevOps Engineer and Research Assistant',
